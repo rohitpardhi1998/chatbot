@@ -1,0 +1,5 @@
+    <TouchableOpacity onPress={() => Linking.openURL('https://bot.dialogflow.com/24eb5166-855e-4043-b0ba-74f9bb04608f')}>
+                        <Text style={styles.text2Style}>
+                                     Start Here
+                        </Text>
+             </TouchableOpacity>
